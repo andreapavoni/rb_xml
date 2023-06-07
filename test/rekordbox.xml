@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.7.1" Company="AlphaTheta"/>
+  <COLLECTION Entries="89">
+    <TRACK TrackID="197158581" Name="Housepital (Original Mix)" Artist="Riva Starr, Dajae" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="19197280" TotalTime="470" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="123.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Riva%20Starr,%20Dajae%20-%20Housepital%20(Original%20Mix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.161" Bpm="123.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="1.625" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.893" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.113" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="93.332" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="138.210" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="186.991" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="296.259" Num="7" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="226695651" Name="For The Same Man" Artist="B Beat Girls" Composer="" Album="For The Same Man (Nic Fanciulli Remix)" Grouping="" Genre="" Kind="MP3 File" Size="16425189" TotalTime="409" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/B%20Beat%20Girls%20-%20For%20The%20Same%20Man.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.076" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.549" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.076" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.312" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="90.785" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="136.139" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="181.493" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="39553500" Name="Le patron est devenu fou" Artist="Etienne de Crécy" Composer="" Album="Le patron est devenu fou" Grouping="" Genre="" Kind="MP3 File" Size="24176867" TotalTime="602" DiscNumber="1" TrackNumber="2" Year="1998" AverageBpm="120.87" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Etienne%20de%20Cr%c3%a9cy%20feat.%20Minos%20-%20Le%20patron%20est%20devenu%20fou.mp3" Remixer="" Tonality="6A" Label="Pixadelic" Mix="">
+      <TEMPO Inizio="0.383" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="0.880" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="8.823" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="24.212" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="37.119" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="52.508" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="67.897" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="83.286" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="96.193" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="111.582" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="126.971" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="139.878" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="155.267" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="170.656" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="186.045" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="198.952" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="214.341" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="229.730" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="242.637" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="258.026" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="273.415" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="288.804" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="301.711" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="317.100" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="332.489" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="345.396" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="360.785" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="376.174" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="391.563" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="404.470" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="419.859" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="435.248" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="448.155" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="463.544" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="478.933" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="491.840" Bpm="120.87" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="507.229" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="522.618" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="538.007" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="550.914" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="566.303" Bpm="120.87" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="581.692" Bpm="120.87" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="594.599" Bpm="120.87" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.383" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="126.474" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="64.918" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="257.529" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="61238137" Name="Falling (D.Diggler&apos;s Cleptomania remix)" Artist="Tom Clark and Benno Blome feat. A Guy Called Gerald" Composer="" Album="Falling" Grouping="" Genre="" Kind="MP3 File" Size="17778479" TotalTime="435" DiscNumber="1" TrackNumber="4" Year="2011" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/A%20Guy%20Called%20Gerald,%20Benno%20Blome,%20Tom%20Clark%20-%20Falling.mp3" Remixer="" Tonality="1A" Label="Highgrade Records" Mix="">
+      <TEMPO Inizio="0.150" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="62.085" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="185.956" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="124.021" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="224.666" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="276.924" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="348.537" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="225134571" Name="Big Bark (EB Spezial Dub)" Artist="Eden Burns" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="14390338" TotalTime="356" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Eden%20Burns%20-%20Big%20Bark%20(EB%20Spezial%20Dub).mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.225" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.225" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="120.225" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.161" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="186.031" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="306.031" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="202812409" Name="We All Love Sax" Artist="Tim Deluxe" Composer="" Album="Sirens / We All Love Sax" Grouping="" Genre="" Kind="MP3 File" Size="15612255" TotalTime="387" DiscNumber="1" TrackNumber="2" Year="2011" AverageBpm="128.02" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Tim%20Deluxe%20-%20We%20All%20Love%20Sax.mp3" Remixer="" Tonality="2A" Label="Get Human" Mix="">
+      <TEMPO Inizio="0.308" Bpm="128.02" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.777" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.773" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.769" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="225.278" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="85714746" Name="You&apos;ve Got The Love (Joshwa Edit)" Artist="Florence + The Machine" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="13397804" TotalTime="334" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="129.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Florence%20+%20The%20Machine%20-%20You%27ve%20Got%20The%20Love%20(Joshwa%20Edit).mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.029" Bpm="129.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.960" Bpm="129.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.029" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="59.564" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="89.332" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="104.215" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="130.262" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="260.494" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="163.750" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="86241471" Name="Soul Ft. Sutja Gutierrez ( NiCe7 Remix )" Artist="Affkt" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="17118523" TotalTime="422" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="123.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Affkt%20-%20Soul%20Ft.%20Sutja%20Gutierrez%20(%20NiCe7%20Remix%20).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.130" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.130" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.349" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.569" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="125.007" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="104285210" Name="Informer (S.A.M Reshape)" Artist="Archie Hamilton &amp; Benson Herbert" Composer="" Album="10 Years Of Moscow" Grouping="" Genre="" Kind="MP3 File" Size="22143489" TotalTime="551" DiscNumber="1" TrackNumber="7" Year="2020" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Archie%20Hamilton,%20Benson%20Herbert%20-%20Informer%20(S.A.M%20Reshape).mp3" Remixer="" Tonality="4A" Label="Microhertz" Mix="">
+      <TEMPO Inizio="0.108" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.585" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="226.776" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="472.967" Bpm="126.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="168112793" Name="Tell Me (Original Mix)" Artist="George Smeddles" Composer="George Smeddles" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="16782534" TotalTime="418" DiscNumber="2" TrackNumber="19" Year="2020" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="3" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/George%20Smeddles%20-%20Tell%20Me%20(Original%20Mix).mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.304" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.304" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="44.464" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="6850915" Name="House Brause (Toman Remix)" Artist="Christian Burkhardt" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="17241792" TotalTime="424" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Christian%20Burkhardt%20-%20House%20Brause%20(Toman%20Remix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.059" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="56.280" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="172.501" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="272.659" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="388.880" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.059" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.531" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="88.878" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="136.122" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="302.422" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="241.950" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="207864304" Name="Baianá (Pablo Fierro edit)" Artist="Barbatuques" Composer="" Album="Baianá (Pablo Fierro edit)" Grouping="" Genre="" Kind="MP3 File" Size="14811165" TotalTime="368" DiscNumber="1" TrackNumber="2" Year="2019" AverageBpm="120.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Barbatuques%20-%20Baian%c3%a1%20(Pablo%20Fierro%20Edit).mp3" Remixer="" Tonality="7A" Label="FFRR" Mix="">
+      <TEMPO Inizio="0.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="108.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="109.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="109.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="110.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="110.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="111.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="111.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="112.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="112.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="113.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="113.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="114.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="114.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="115.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="115.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="116.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="116.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="117.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="117.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="118.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="118.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="119.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="119.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="120.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="120.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="121.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="121.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="122.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="122.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="123.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="123.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="124.064" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="124.563" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="125.064" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="125.563" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="8.064" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="64.064" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="134778929" Name="Mouth To Mouth (Dense &amp; Pika remix)" Artist="Audion" Composer="" Album="Ibiza Underground 2016" Grouping="" Genre="" Kind="MP3 File" Size="15314166" TotalTime="381" DiscNumber="1" TrackNumber="5" Year="2016" AverageBpm="123.75" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="3" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Audion%20-%20Mouth%20To%20Mouth%20(Dense%20%26%20Pika%20Remix).mp3" Remixer="" Tonality="1A" Label="Toolroom Records" Mix="">
+      <TEMPO Inizio="0.102" Bpm="123.75" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.102" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="15.617" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.221" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="124.219" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="310.396" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="133777452" Name="Tinga" Artist="Jamie Coins" Composer="" Album="Tinga" Grouping="" Genre="" Kind="MP3 File" Size="7159431" TotalTime="177" DiscNumber="0" TrackNumber="1" Year="2023" AverageBpm="132.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jamie%20Coins%20-%20Tinga.mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.133" Bpm="132.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="59.224" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="13.769" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="81.042" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="104304199" Name="Tracknard (The Mekanism rmx)" Artist="Marwan Sabb" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="16503193" TotalTime="405" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="123.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Marwan%20Sabb%20-%20Tracknard%20(The%20Mekanism%20rmx).mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.030" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="15.639" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="93.688" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="198235879" Name="Music (Original Mix)" Artist="NightFunk" Composer="NightFunk" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="13251260" TotalTime="318" DiscNumber="1" TrackNumber="28" Year="2020" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/NightFunk%20-%20Music%20(Original%20Mix).mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.031" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.504" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.031" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.504" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="165701569" Name="Hinter dem Hügel" Artist="School of Zuversicht" Composer="" Album="Musikexpress 09/21" Grouping="" Genre="" Kind="MP3 File" Size="12693927" TotalTime="314" DiscNumber="1" TrackNumber="3" Year="2021" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/School%20Of%20Zuversicht%20-%20Hinter%20dem%20H%c3%bcgel.mp3" Remixer="" Tonality="8A" Label="Musikexpress" Mix="">
+      <TEMPO Inizio="0.113" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="7.854" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="85.274" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="176.241" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="100855447" Name="Win Terram" Artist="Majid Soula" Composer="" Album="Habibi Funk 017: Chant Amazigh" Grouping="" Genre="" Kind="MP3 File" Size="10359951" TotalTime="246" DiscNumber="1" TrackNumber="4" Year="2021" AverageBpm="90.31" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Majid%20Soula%20-%20Win%20Terram.mp3" Remixer="" Tonality="4A" Label="Habibi Funk" Mix="">
+      <TEMPO Inizio="0.411" Bpm="90.31" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.076" Bpm="90.31" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="31.638" Bpm="90.31" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="78.145" Bpm="90.31" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="138.604" Bpm="90.31" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="179.796" Bpm="90.31" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="240.255" Bpm="90.31" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="125300801" Name="Jazzy Candy (Original Mix)" Artist="Eddy M" Composer="Eddy M" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="15512671" TotalTime="384" DiscNumber="1" TrackNumber="24" Year="2020" AverageBpm="130.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Eddy%20M%20-%20Jazzy%20Candy%20(Original%20Mix).mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.067" Bpm="130.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.067" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="29.606" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="73.913" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="228.991" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="225133055" Name="Take Your Lady" Artist="Sworn Virgins" Composer="" Album="Lazer Beam" Grouping="" Genre="" Kind="MP3 File" Size="16752340" TotalTime="416" DiscNumber="1" TrackNumber="2" Year="2019" AverageBpm="120.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Sworn%20Virgins%20-%20Take%20Your%20Lady.mp3" Remixer="" Tonality="6A" Label="Deewee" Mix="">
+      <TEMPO Inizio="0.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="98.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="99.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="99.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="100.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="100.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="101.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="101.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="102.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="102.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="103.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="103.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="104.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="104.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="105.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="105.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="106.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="106.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="107.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="107.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="108.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="108.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="109.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="109.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="110.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="110.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="111.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="111.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="112.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="112.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="113.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="113.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="114.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="114.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="115.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="115.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="116.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="116.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="117.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="117.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="118.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="118.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="119.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="119.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="120.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="120.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="121.031" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="121.530" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="122.031" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="122.530" Bpm="120.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="229524238" Name="Space Funk" Artist="Christian Burkhardt" Composer="" Album="New Ways" Grouping="" Genre="" Kind="MP3 File" Size="14791120" TotalTime="363" DiscNumber="0" TrackNumber="0" Year="2023" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Christian%20Burkhardt%20-%20Space%20Funk.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.025" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="322.106" Bpm="125.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="1075358" Name="Pimp Jackson Is Talkin&apos; Now!!!" Artist="Loco Dice" Composer="" Album="7 Dunham Place" Grouping="" Genre="" Kind="MP3 File" Size="14448615" TotalTime="359" DiscNumber="1" TrackNumber="8" Year="2008" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Loco%20Dice%20-%20Pimp%20Jackson%20Is%20Talking%20Now!!!.mp3" Remixer="" Tonality="10B" Label="Desolat" Mix="">
+      <TEMPO Inizio="0.227" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="26.418" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="332.609" Bpm="126.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="63220285" Name="Reprise de Fonk" Artist="Art of Tones" Composer="" Album="Defected Presents: Most Rated Ibiza 2018" Grouping="" Genre="" Kind="MP3 File" Size="13911734" TotalTime="345" DiscNumber="1" TrackNumber="32" Year="2018" AverageBpm="119.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Art%20Of%20Tones%20-%20Reprise%20De%20Fonk.mp3" Remixer="" Tonality="2A" Label="Defected" Mix="">
+      <TEMPO Inizio="0.085" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="16.219" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="64.623" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="213184324" Name="Gonna Take My Time" Artist="Nenor" Composer="" Album="Take My Time EP" Grouping="" Genre="" Kind="MP3 File" Size="14339876" TotalTime="356" DiscNumber="1" TrackNumber="3" Year="2022" AverageBpm="119.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Nenor%20-%20Gonna%20Take%20My%20Time.mp3" Remixer="" Tonality="1A" Label="Razor N Tape Reserve" Mix="">
+      <TEMPO Inizio="0.118" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="26.337" Bpm="119.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="16.252" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="129.194" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="73844295" Name="Lux Dementia" Artist="Afrilounge" Composer="" Album="In the House" Grouping="" Genre="" Kind="MP3 File" Size="12245980" TotalTime="372" DiscNumber="2" TrackNumber="13" Year="2014" AverageBpm="123.77" DateAdded="2023-04-22" BitRate="256" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Afrilounge%20-%20Lux%20Dementia.mp3" Remixer="" Tonality="9B" Label="ITH Records" Mix="">
+      <TEMPO Inizio="0.039" Bpm="123.77" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="205674442" Name="Tribaile (Len Mora &amp; Joaquin Postigo)" Artist="Marcos Barrios" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="19128061" TotalTime="472" DiscNumber="0" TrackNumber="0" Year="2013" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Marcos%20Barrios%20-%20Tribaile%20(Len%20Mora%20%26%20Joaquin%20Postigo).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.040" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="112772322" Name="Cute (Original Mix)" Artist="Kevin Knapp &amp; Baby Luck" Composer="Kevin Knapp &amp; Baby Luck" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="13348522" TotalTime="325" DiscNumber="1" TrackNumber="10" Year="2020" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Kevin%20Knapp%20%26%20Baby%20Luck%20-%20Cute%20(Original%20Mix).mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.040" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.040" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.276" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.512" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="120.984" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="239893718" Name="Falling (D. Digglers Cleptomania Remix)" Artist="Tom Clark &amp; Benno Blome Feat A Guy Called Gerald" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="17778292" TotalTime="435" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Tom%20Clark%20%26%20Benno%20Blome%20Feat%20A%20Guy%20Called%20Gerald%20-%20Falling%20(D.%20Digglers%20Cleptomania%20Remix).mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.150" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.150" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.601" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="107322847" Name="places faces" Artist="Altrice" Composer="" Album="places faces" Grouping="" Genre="" Kind="MP3 File" Size="11434013" TotalTime="282" DiscNumber="1" TrackNumber="1" Year="2022" AverageBpm="128.25" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Altrice%20-%20Places%20faces.mp3" Remixer="" Tonality="10A" Label="Jiaolong" Mix="">
+      <TEMPO Inizio="0.395" Bpm="128.25" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.863" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.337" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="199645613" Name="Lunar" Artist="Dimmish" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="19329820" TotalTime="480" DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Dimmish%20-%20Lunar.mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.034" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.034" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="122.914" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="245.794" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="151834618" Name="Ragysh" Artist="Todd Terje" Composer="" Album="Saturday Sessions" Grouping="" Genre="" Kind="MP3 File" Size="10379432" TotalTime="320" DiscNumber="2" TrackNumber="8" Year="2012" AverageBpm="122.03" DateAdded="2023-04-22" BitRate="256" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Todd%20Terje%20-%20Ragysh.mp3" Remixer="" Tonality="1A" Label="Ministry of Sound" Mix="">
+      <TEMPO Inizio="0.191" Bpm="122.03" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.191" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="191904169" Name="Yes Sir I Can Boogie" Artist="Chiwetel Ejiofor" Composer="" Album="Kinky Boots" Grouping="" Genre="" Kind="MP3 File" Size="10692221" TotalTime="260" DiscNumber="1" TrackNumber="9" Year="2005" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Chiwetel%20Ejiofor%20-%20Yes%20Sir%20I%20Can%20Boogie.mp3" Remixer="" Tonality="7A" Label="Hollywood Records" Mix="">
+      <TEMPO Inizio="0.179" Bpm="122.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="158947508" Name="Bongos &amp; Tambourines (Simple Symmetry remix)" Artist="Autarkic" Composer="" Album="!Kollections 06: Summer in the Club" Grouping="" Genre="" Kind="MP3 File" Size="17833043" TotalTime="439" DiscNumber="1" TrackNumber="25" Year="2018" AverageBpm="118.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Autarkic%20-%20Bongos%20%26%20Tambourines%20(Simple%20Symmetry%20Remix).mp3" Remixer="" Tonality="1A" Label="!K7" Mix="">
+      <TEMPO Inizio="0.147" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.656" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="179.638" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="408.959" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.147" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="65.232" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="97.774" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="130.316" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="101784377" Name="Babel" Artist="Rone" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15397503" TotalTime="373" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Rone%20-%20Babel.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.063" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.063" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="103364410" Name="MDMO" Artist="Claire Laffut" Composer="" Album="MDMO (Desiderata remix for WECANDANCE)" Grouping="" Genre="" Kind="MP3 File" Size="13465014" TotalTime="335" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Claire%20Laffut%20-%20MDMO%20(Desiderata%20remix%20for%20WECANDANCE).mp3" Remixer="" Tonality="8B" Label="" Mix="">
+      <TEMPO Inizio="0.336" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.336" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="227816896" Name="Secrets (Original Mix)" Artist="Spellband" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15847165" TotalTime="392" DiscNumber="0" TrackNumber="0" Year="2022" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Spellband%20-%20Secrets%20(Original%20Mix).mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.026" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="92.929" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="0.026" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="123.897" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="185.832" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="160151582" Name="Bassline" Artist="Satoshi Tomiie" Composer="" Album="Defected Presents the Closing Party Ibiza 2018" Grouping="" Genre="" Kind="MP3 File" Size="16560381" TotalTime="411" DiscNumber="1" TrackNumber="22" Year="2018" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Satoshi%20Tomiie%20-%20Bassline.mp3" Remixer="" Tonality="11A" Label="Defected" Mix="">
+      <TEMPO Inizio="0.104" Bpm="124.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="165938247" Name="Get Out (Kerri Chandler Remix)" Artist="Matrix" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="14960326" TotalTime="362" DiscNumber="0" TrackNumber="0" Year="2002" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Matrix%20-%20Get%20Out%20(Kerri%20Chandler%20Remix).mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.095" Bpm="124.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="62.516" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="0.579" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="175806551" Name="What Used To Be (Original Mix)" Artist="Octave (RO), Christian Burkhardt" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="24800911" TotalTime="611" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Octave%20(RO),%20Christian%20Burkhardt%20-%20What%20Used%20To%20Be%20(Original%20Mix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.024" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="68.056" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="376.088" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.496" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="254892655" Name="The Ultimate Warlord Edit" Artist="Kollektiv Ost" Composer="" Album="The Ultimate Warlord (Edit)" Grouping="" Genre="" Kind="MP3 File" Size="15286710" TotalTime="380" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Kollektiv%20Ost%20-%20The%20Ultimate%20Warlord%20Edit.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.069" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.069" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.544" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="94.495" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="251.873" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="61739007" Name="The Rollercoaster" Artist="Yuksek" Composer="" Album="The Rollercoaster (Extended Mix)" Grouping="" Genre="" Kind="MP3 File" Size="12448223" TotalTime="310" DiscNumber="0" TrackNumber="1" Year="2019" AverageBpm="121.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Yuksek%20-%20The%20Rollercoaster%20(Extended%20Mix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.115" Bpm="121.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.611" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="95.321" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="127.057" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="265895444" Name="Derretech" Artist="Jamie Coins" Composer="" Album="Tinga" Grouping="" Genre="" Kind="MP3 File" Size="7718451" TotalTime="191" DiscNumber="0" TrackNumber="1" Year="2023" AverageBpm="132.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jamie%20Coins%20-%20Derretech.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.070" Bpm="132.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="1.888" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="29.160" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="65171384" Name="Moxy Edits 001" Artist="Moxy Edits" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15568759" TotalTime="384" DiscNumber="0" TrackNumber="0" Year="2020" AverageBpm="130.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Moxy%20Edits%20-%20Moxy%20Edits%20001.mp3" Remixer="" Tonality="11B" Label="" Mix="">
+      <TEMPO Inizio="0.026" Bpm="130.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.026" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="29.565" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="118.180" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="162.488" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="66267259" Name="Working Nights" Artist="Trus &apos;me" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="14665655" TotalTime="359" DiscNumber="0" TrackNumber="0" Year="2007" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Trus%20%27me%20-%20Working%20Nights.mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.195" Bpm="122.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="71863447" Name="He Not In (Groove Armada’s dub reconstruction)" Artist="Chicken Lips" Composer="" Album="He Not In" Grouping="" Genre="" Kind="MP3 File" Size="18443384" TotalTime="459" DiscNumber="1" TrackNumber="3" Year="2002" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Chicken%20Lips,%20Groove%20Armada%20-%20He%20Not%20In%20(Groove%20Armada%27s%20Dub%20Reconstruction).mp3" Remixer="" Tonality="2A" Label="4 to the Floor Records" Mix="">
+      <TEMPO Inizio="0.054" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.054" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.530" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.482" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="182.911" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="213.387" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="221449117" Name="Intro" Artist="Moon Rocket" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="16326900" TotalTime="404" DiscNumber="0" TrackNumber="0" Year="2018" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Moon%20Rocket%20-%20Intro.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.205" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.205" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.680" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="94.628" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="42280876" Name="It&apos;s A Killa (Shermanology Edit)" Artist="FISHER" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="18094997" TotalTime="439" DiscNumber="0" TrackNumber="0" Year="2022" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/FISHER%20%26%20Shermanology%20-%20It%27s%20A%20Killa%20(Shermanology%20Edit).mp3" Remixer="" Tonality="10B" Label="" Mix="">
+      <TEMPO Inizio="0.335" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.335" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.571" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.335" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="393.406" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="1183972" Name="Shui (Original Mix)" Artist="Christian Burkhardt" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15900584" TotalTime="394" DiscNumber="0" TrackNumber="0" Year="2009" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Christian%20Burkhardt%20-%20Shui%20(original%20mix).mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.125" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="239.164" Bpm="125.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.125" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="64195380" Name="The Shake" Artist="Ellis Moss" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="15026638" TotalTime="374" DiscNumber="0" TrackNumber="0" Year="2021" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Ellis%20Moss%20-%20The%20Shake.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.024" Bpm="124.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.992" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.960" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="248.250" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="93.411" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="277.283" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="57159442" Name="Informer (Original Mix)" Artist="Archie Hamilton, Benson Herbert" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="18676645" TotalTime="460" DiscNumber="0" TrackNumber="0" Year="2018" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Archie%20Hamilton,%20Benson%20Herbert%20-%20Informer%20(Original%20Mix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.048" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="46.239" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="142.430" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="238.621" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="334.812" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="431.003" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.048" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="152811498" Name="Belle Maison" Artist="Okain" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="14695494" TotalTime="364" DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="124.28" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Okain%20-%20Belle%20Maison.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.257" Bpm="124.28" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.257" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="216072829" Name="Lunedì Cinema (feat. Lucio Dalla)" Artist="Bottin" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="16622928" TotalTime="407" DiscNumber="0" TrackNumber="0" Year="2022" AverageBpm="128.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Bottin%20feat.%20Lucio%20Dalla%20-%20Luned%c3%ac%20Cinema.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.382" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.382" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.382" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="74894653" Name="Pasilda (Knee Deep club mix)" Artist="Afro Medusa" Composer="" Album="Hed Kandi: Disco Kandi 3" Grouping="" Genre="" Kind="MP3 File" Size="17123593" TotalTime="426" DiscNumber="2" TrackNumber="6" Year="2001" AverageBpm="127.17" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Afro%20Medusa%20-%20Pasilda%20(Knee%20Deep%20Club%20Mix).mp3" Remixer="" Tonality="5A" Label="Hed Kandi" Mix="">
+      <TEMPO Inizio="0.373" Bpm="127.17" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.373" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.765" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="134.368" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="257.040" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="396.698" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="219442464" Name="Mortal Trance" Artist="Boo Williams" Composer="" Album="Bugged Out! Presents Suck My Deck Mixed by Friendly Fires" Grouping="" Genre="" Kind="MP3 File" Size="14651350" TotalTime="363" DiscNumber="1" TrackNumber="15" Year="2010" AverageBpm="120.01" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Boo%20Williams%20-%20Mortal%20Trance.mp3" Remixer="" Tonality="10A" Label="!K7" Mix="">
+      <TEMPO Inizio="0.028" Bpm="120.01" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="33.026" Bpm="120.01" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="32237970" Name="Baba Yaga" Artist="Italobros" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="16626628" TotalTime="408" DiscNumber="0" TrackNumber="0" Year="2022" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Italobros%20-%20Baba%20Yaga.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.032" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.505" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="344.441" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.032" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.269" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.505" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="120.977" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="90.741" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="181.449" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="264.599" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="347.748" Num="7" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="182696955" Name="Al Paka" Artist="Christian Burkhardt, Daniel Roth" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="17268660" TotalTime="428" DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Christian%20Burkhardt,%20Daniel%20Roth%20-%20Al%20Paka.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.053" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="13.012" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.053" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.492" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="215.092" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="345.172" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="247173282" Name="Doubledub" Artist="Christian Burkhardt" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="18545628" TotalTime="456" DiscNumber="0" TrackNumber="0" Year="2022" AverageBpm="127.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Christian%20Burkhardt%20-%20Doubledub.mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.056" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.529" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="296.276" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.056" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="121.001" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="96340892" Name="We Can Move" Artist="Free Youth" Composer="" Album="We Can Move" Grouping="" Genre="" Kind="MP3 File" Size="15923455" TotalTime="389" DiscNumber="1" TrackNumber="1" Year="2019" AverageBpm="121.69" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Free%20Youth%20-%20We%20Can%20Move.mp3" Remixer="" Tonality="7A" Label="Soundway" Mix="">
+      <TEMPO Inizio="0.033" Bpm="121.69" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="38.985" Bpm="121.69" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="156.826" Bpm="121.69" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="274.667" Bpm="121.69" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="1.019" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="58.214" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="154007303" Name="You Make Me Feel (Mighty Real) (Michael Gray Remix)" Artist="Sylvester" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="18282948" TotalTime="452" DiscNumber="0" TrackNumber="0" Year="2019" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Sylvester%20-%20You%20Make%20Me%20Feel%20(Mighty%20Real)%20(Michael%20Gray%20Remix%20).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.053" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.053" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.021" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.988" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="139.408" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="162.633" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="387.149" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="66784948" Name="Spirits" Artist="Sebo K feat. Max Moya" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="19152271" TotalTime="476" DiscNumber="0" TrackNumber="0" Year="2009" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Sebo%20K%20feat.%20Max%20Moya%20-%20Spirits.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.151" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.151" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="126.053" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="275.561" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="82031134" Name="The Player" Artist="Ben Rau" Composer="" Album="The Player" Grouping="" Genre="" Kind="MP3 File" Size="16549197" TotalTime="412" DiscNumber="0" TrackNumber="1" Year="2020" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Ben%20Rau,%20Jansons%20-%20The%20Player.mp3" Remixer="" Tonality="11B" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="126.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="1.003" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="187.194" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.526" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.955" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="130.050" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="194.813" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="236.717" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="57264916" Name="Time Guard" Artist="Lazare Hoche" Composer="" Album="Time Guard (Remixes)" Grouping="" Genre="" Kind="MP3 File" Size="20785464" TotalTime="517" DiscNumber="0" TrackNumber="1" Year="2019" AverageBpm="128.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Lazare%20Hoche%20-%20Time%20Guard%20(Archie%20Hamilton%20Remix).mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.081" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.081" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="203670431" Name="Water Tower" Artist="Fabe (GER)" Composer="" Album="Water Tower" Grouping="" Genre="" Kind="MP3 File" Size="15386685" TotalTime="382" DiscNumber="0" TrackNumber="1" Year="2019" AverageBpm="128.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Fabe%20(Ger)%20-%20Water%20Tower%20(Original%20Mix).mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.230" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.230" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.230" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="120.230" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="165.230" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="283.356" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="78921793" Name="The Attention Deficit Track" Artist="Jackmaster" Composer="" Album="The Attention Deficit EP" Grouping="" Genre="" Kind="MP3 File" Size="15028160" TotalTime="374" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="130.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jackmaster%20-%20The%20Attention%20Deficit%20Track%20(1).mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.164" Bpm="130.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.164" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="29.703" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="59.241" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="86.934" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="110.933" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="199.549" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="251.241" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="302.933" Num="7" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="2456849" Name="Hallelujah" Artist="Kevin McKay" Composer="" Album="Hallelujah" Grouping="" Genre="" Kind="MP3 File" Size="15047950" TotalTime="375" DiscNumber="0" TrackNumber="1" Year="2019" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Kevin%20McKay,%20David%20Penn%20-%20Hallelujah.mp3" Remixer="" Tonality="11B" Label="" Mix="">
+      <TEMPO Inizio="0.108" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.108" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.075" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.559" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="193.657" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="134707294" Name="F The Disco" Artist="Cavi" Composer="" Album="Our Beats" Grouping="" Genre="" Kind="MP3 File" Size="11486541" TotalTime="284" DiscNumber="0" TrackNumber="1" Year="2020" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Cavi%20-%20F%20The%20Disco%20(Original%20Mix).mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.071" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.071" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.038" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.037" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="92.973" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="123.940" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="247.809" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="160010800" Name="Gloria" Artist="Hard Drive Library" Composer="" Album="Gloria - EP" Grouping="" Genre="" Kind="MP3 File" Size="12284362" TotalTime="306" DiscNumber="0" TrackNumber="1" Year="2021" AverageBpm="128.06" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Hard%20Drive%20Library%20-%20Gloria.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.097" Bpm="128.06" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.097" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="28.208" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.068" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="90.053" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="119.101" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="151.898" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="191826632" Name="Breaking Bad" Artist="Eddy M" Composer="" Album="Breaking Bad" Grouping="" Genre="" Kind="MP3 File" Size="14440760" TotalTime="360" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="128.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Eddy%20M%20-%20Breaking%20Bad%20(Original%20Mix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.053" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.053" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.053" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="118.178" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="150.053" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="202.553" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="238.178" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="300.053" Num="6" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="217734883" Name="Badala Zamana (Habibi Funk 015)" Artist="Zohra" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7872402" TotalTime="190" DiscNumber="0" TrackNumber="0" Year="2021" AverageBpm="112.19" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Zohra%20-%20Badala%20Zamana%20(Habibi%20Funk%20015).mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.145" Bpm="112.19" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="1.215" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="9.237" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="14.051" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="159.521" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="81151622" Name="Dance In Tongues" Artist="Dave Seaman" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="14552798" TotalTime="358" DiscNumber="0" TrackNumber="0" Year="2015" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Dave%20Seaman%20%e2%80%94%20Dance%20In%20Tongues%20-%20Tech.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.050" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.017" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.985" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="154.888" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="170.372" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="308.275" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="206576287" Name="Tourterelle" Artist="Tambour Battant" Composer="" Album="Galore" Grouping="" Genre="" Kind="MP3 File" Size="9494788" TotalTime="234" DiscNumber="1" TrackNumber="4" Year="2019" AverageBpm="120.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Tambour%20Battant%20-%20Tourterelle.mp3" Remixer="" Tonality="3A" Label="X-Ray Production" Mix="">
+      <TEMPO Inizio="0.062" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.062" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="32.062" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.062" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="126.062" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="148015814" Name="Cassandra (Original Mix)" Artist="Donato Dozzy" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="18171597" TotalTime="449" DiscNumber="0" TrackNumber="0" Year="2015" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Donato%20Dozzy%20-%20Cassandra%20(Original%20Mix).mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.048" Bpm="124.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="2.468" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="126.339" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="197432191" Name="The Money (Original Mix)" Artist="Italobros &amp; Gemini 529" Composer="Italobros &amp; Gemini 529" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="15726234" TotalTime="390" DiscNumber="2" TrackNumber="22" Year="2020" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Italobros%20%26%20Gemini%20529%20-%20The%20Money%20(Original%20Mix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.054" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="1.007" Bpm="126.00" Metro="4/4" Battito="3"/>
+      <POSITION_MARK Name="" Type="0" Start="0.054" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.530" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="121.959" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="182.911" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="304.816" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="365.769" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="80745798" Name="Wobble Like (Original Mix)" Artist="Dipzy" Composer="Dipzy" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="12745278" TotalTime="306" DiscNumber="2" TrackNumber="28" Year="2020" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Dipzy%20-%20Wobble%20Like%20(Original%20Mix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.063" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.063" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="15.301" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.539" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.015" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="121.967" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="152.444" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="243.872" Num="6" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="128838799" Name="It’s Yours (NiCe7 remix)" Artist="Jon Cutler feat. E‐Man" Composer="" Album="Bargrooves Deluxe 2014" Grouping="" Genre="" Kind="MP3 File" Size="17116610" TotalTime="424" DiscNumber="1" TrackNumber="19" Year="2013" AverageBpm="123.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jon%20Cutler%20ft.%20E-Man%20-%20It%27s%20Yours%20(Nice7%20Remix).mp3" Remixer="" Tonality="11A" Label="Bargrooves" Mix="">
+      <TEMPO Inizio="0.102" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.102" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="62.541" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="162.053" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="124.980" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="249.858" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="288.882" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="409.857" Num="6" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="89391100" Name="Bolingo (Original Mix)" Artist="Ferreck Dawn" Composer="Ferreck Dawn" Album="" Grouping="" Genre="Tech House" Kind="MP3 File" Size="14367155" TotalTime="353" DiscNumber="1" TrackNumber="2" Year="2020" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Ferreck%20Dawn%20-%20Bolingo%20(Original%20Mix).mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.044" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="209.805" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.044" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.124" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="92.204" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="153.644" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="169.004" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="230.445" Num="5" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="105093837" Name="Yes It Was" Artist="Makito" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="16205466" TotalTime="403" DiscNumber="0" TrackNumber="0" Year="2017" AverageBpm="124.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Makito%20-%20Yes%20It%20Was.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.050" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="31.018" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.502" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="91.018" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="108.437" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="123.921" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="139.404" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="371.662" Num="7" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="259159676" Name="Dorothy" Artist="Polo &amp; Pan" Composer="" Album="Caravelle" Grouping="" Genre="" Kind="MP3 File" Size="12769872" TotalTime="316" DiscNumber="1" TrackNumber="8" Year="2018" AverageBpm="118.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Polo%20%26%20Pan%20-%20Dorothy.mp3" Remixer="" Tonality="2A" Label="Hamburger Records" Mix="">
+      <TEMPO Inizio="0.128" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.128" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="40.806" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="97.755" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="130.297" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="138.433" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="175.043" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="211.653" Num="6" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="293.009" Num="7" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="229737786" Name="Fifty Dollar Bills" Artist="Sworn Virgins" Composer="" Album="Fifty Dollar Bills" Grouping="" Genre="" Kind="MP3 File" Size="17327115" TotalTime="430" DiscNumber="1" TrackNumber="1" Year="2018" AverageBpm="125.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Sworn%20Virgins%20-%20Fifty%20Dollar%20Bills.mp3" Remixer="" Tonality="11A" Label="Deewee" Mix="">
+      <TEMPO Inizio="0.023" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="41.304" Bpm="125.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="342.265" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.023" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.743" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="46.104" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.464" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="92.184" Num="4" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="184.344" Num="5" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="215.064" Num="6" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="136314839" Name="Testify" Artist="Jamie 3:26 &amp; Masalo" Composer="" Album="Defected: Ibiza 2017" Grouping="" Genre="" Kind="MP3 File" Size="19910680" TotalTime="496" DiscNumber="1" TrackNumber="25" Year="2017" AverageBpm="122.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jamie%203_26,%20Masalo%20-%20Testify.mp3" Remixer="" Tonality="6A" Label="Defected" Mix="">
+      <TEMPO Inizio="0.094" Bpm="122.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="63.045" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="0.094" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="241156685" Name="Deviate" Artist="Manuel Tur &amp; Dplay" Composer="" Album="Nervous Nitelife: Pure Behrouz NYC" Grouping="" Genre="" Kind="MP3 File" Size="18885493" TotalTime="467" DiscNumber="1" TrackNumber="9" Year="2008" AverageBpm="118.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Manuel%20Tur,%20DPlay%20-%20Deviate.mp3" Remixer="" Tonality="12A" Label="Nervous Records" Mix="">
+      <TEMPO Inizio="0.067" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.576" Bpm="118.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.067" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="122.101" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="195.321" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="439.389" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="15750191" Name="Marmite" Artist="Wajatta" Composer="" Album="Don’t Let Get You Down" Grouping="" Genre="" Kind="MP3 File" Size="14629292" TotalTime="362" DiscNumber="1" TrackNumber="8" Year="2020" AverageBpm="126.00" DateAdded="2023-04-22" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Wajatta%20-%20Marmite.mp3" Remixer="" Tonality="11A" Label="Brainfeeder" Mix="">
+      <TEMPO Inizio="0.114" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="257.732" Bpm="126.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.114" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="30.590" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="331.541" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="182.970" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="227616494" Name="Bass The Dust" Artist="Disco Incorporated" Composer="" Album="Disco Soul" Grouping="" Genre="" Kind="MP3 File" Size="10783408" TotalTime="268" DiscNumber="0" TrackNumber="1" Year="2022" AverageBpm="118.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Disco%20Incorporated%20-%20Bass%20The%20Dust.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.052" Bpm="118.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.052" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="65.136" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="97.679" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="128.187" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="166.832" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="218033988" Name="Emotion 2 Emotion" Artist="Alinka" Composer="" Album="Universal Motion EP" Grouping="" Genre="" Kind="MP3 File" Size="14572773" TotalTime="363" DiscNumber="0" TrackNumber="1" Year="2021" AverageBpm="128.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Alinka%20-%20Emotion%202%20Emotion.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.079" Bpm="128.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.548" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="60.079" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="120.079" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="150.079" Num="3" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="180.079" Num="4" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="268073509" Name="East Eyes" Artist="ManuLele" Composer="" Album="East Eyes (Original Mix)" Grouping="" Genre="" Kind="MP3 File" Size="16594420" TotalTime="414" DiscNumber="0" TrackNumber="1" Year="2023" AverageBpm="125.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/ManuLele%20-%20East%20Eyes.mp3" Remixer="" Tonality="12B" Label="" Mix="">
+      <TEMPO Inizio="0.070" Bpm="125.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="43.271" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <POSITION_MARK Name="" Type="0" Start="0.550" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="154.151" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="246.311" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="369.191" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="122056208" Name="Daylight" Artist="Sweely" Composer="" Album="Beast in My Bass EP" Grouping="" Genre="" Kind="MP3 File" Size="11443909" TotalTime="285" DiscNumber="0" TrackNumber="1" Year="2021" AverageBpm="130.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Sweely%20-%20Daylight.mp3" Remixer="" Tonality="9B" Label="" Mix="">
+      <TEMPO Inizio="0.041" Bpm="130.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="0.503" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="15.272" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="59.580" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="148.195" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="237471176" Name="Pianos of Gold" Artist="Jovonn" Composer="" Album="Goldtone Edits" Grouping="" Genre="" Kind="MP3 File" Size="15717688" TotalTime="392" DiscNumber="0" TrackNumber="1" Year="2018" AverageBpm="124.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Jovonn%20-%20Pianos%20of%20Gold.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.109" Bpm="124.00" Metro="4/4" Battito="4"/>
+      <POSITION_MARK Name="" Type="0" Start="31.560" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="2.528" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="203.818" Num="2" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="148977431" Name="Bass Go Boom" Artist="Joshwa" Composer="" Album="Bass Go Boom" Grouping="" Genre="" Kind="MP3 File" Size="15578633" TotalTime="388" DiscNumber="0" TrackNumber="1" Year="2023" AverageBpm="129.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/Joshwa%20-%20Bass%20Go%20Boom.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.053" Bpm="129.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="205475457" Name="Body Language" Artist="M.A.N.D.Y." Composer="" Album="Body Language" Grouping="" Genre="" Kind="MP3 File" Size="20192861" TotalTime="503" DiscNumber="0" TrackNumber="1" Year="2023" AverageBpm="126.00" DateAdded="2023-04-28" BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/andrea/Beats/NEW_SET/M.A.N.D.Y.%20-%20Body%20Language.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.253" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.253" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="61.205" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="1">
+      <NODE Name="First Set" Type="1" KeyType="0" Entries="0"/>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
