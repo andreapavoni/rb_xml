@@ -1,4 +1,4 @@
-use rb_xml::Parser;
+use rb_xml::RekordboxXml;
 use std::env;
 
 fn main() {
@@ -8,7 +8,7 @@ fn main() {
         return;
     }
 
-    if let Ok(parser) = Parser::from_file(&args[1]) {
+    if let Ok(parser) = RekordboxXml::from_file(&args[1]) {
         parser.write_to_file("out.xml");
     } else {
         println!("Failed to read the XML file.");

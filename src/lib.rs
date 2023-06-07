@@ -1,4 +1,4 @@
-pub mod parser;
+pub mod rekordbox_xml;
 
-pub use parser::Parser;
+pub use rekordbox_xml::RekordboxXml;
 

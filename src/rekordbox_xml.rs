@@ -6,11 +6,11 @@ use quick_xml::se::Serializer;
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Default)]
-pub struct Parser {
+pub struct RekordboxXml {
     xml: DjPlaylists,
 }
 
-impl Parser {
+impl RekordboxXml {
     pub fn from_file(file_path: &str) -> Result<Self, Box<dyn std::error::Error>> {
         let xml = fs::read_to_string(file_path)?;
 
@@ -23,24 +23,19 @@ impl Parser {
         })
     }
 
-    pub fn to_xml(&self) -> String {
-        let mut buffer = String::new();
-        let mut ser = Serializer::new(&mut buffer);
-        ser.indent(' ', 2);
+    pub fn to_xml(&self) -> Result<String, Box<dyn std::error::Error>> {
+        let mut buffer = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n".to_string();
+        let mut serializer = Serializer::new(&mut buffer);
+        serializer.indent(' ', 2);
 
-        self.xml.serialize(ser).unwrap();
-        buffer
-
-        // quick_xml::se::to_string(&self.xml).unwrap()
+        self.xml.serialize(serializer)?;
+        Ok(buffer)
     }
 
-    pub fn write_to_file(&self, file_path: &str) -> std::io::Result<()> {
+    pub fn write_to_file(&self, file_path: &str) -> Result<(), Box<dyn std::error::Error>> {
         let mut file = fs::File::create(file_path)?;
 
-        let xml_str = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n";
-        file.write_all(xml_str.as_bytes())?;
-
-        let xml_str = self.to_xml();
+        let xml_str = self.to_xml()?;
         file.write_all(xml_str.as_bytes())?;
 
         Ok(())
@@ -191,7 +186,7 @@ struct PlaylistNode {
     key_type: Option<u32>,
     #[serde(rename = "@Entries", skip_serializing_if = "Option::is_none")]
     entries: Option<u32>,
-    #[serde(rename = "TRACK", skip_serializing_if = "Option::is_none" )]
+    #[serde(rename = "TRACK", skip_serializing_if = "Option::is_none")]
     track: Option<Vec<NodeTrack>>,
     #[serde(rename = "NODE", skip_serializing_if = "Option::is_none")]
     node: Option<Vec<PlaylistNode>>,
