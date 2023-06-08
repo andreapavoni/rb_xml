@@ -1,9 +1,22 @@
 [package]
 name = "rb_xml"
+description = "Easy, lightweight and portable utility to read and manipulate Rekordbox XML database files"
 version = "0.1.0"
+authors = ["Andrea Pavoni <andrea.pavoni@gmail.com>"]
+repository = "https://github.com/andreapavoni/rb_xml"
+keywords = ["rekordbox", "cue-file"]
+rust-version = "1.67"
 edition = "2021"
+publish = false
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[profile.release]
+panic = "abort"
+strip = true
+opt-level = "z"
+lto = true
+codegen-units = 1
 
 [dependencies]
 quick-xml = {version = "0.28.2", features = ["serialize", "serde"]}

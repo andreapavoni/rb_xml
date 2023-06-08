@@ -1,16 +1,24 @@
-use rb_xml::RekordboxXml;
 use std::env;
 
-fn main() {
+use rb_xml::Analyzer;
+use rb_xml::RekordboxXml;
+
+fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<String> = env::args().collect();
-    if args.len() != 2 {
+    if args.len() != 2 && args.len() != 3 {
         println!("Please provide the path to a Rekordbox XML file.");
-        return;
+        println!("Additionally, you can also provide the path to a directory containing tracks.");
+        return Ok(());
     }
 
-    if let Ok(parser) = RekordboxXml::from_file(&args[1]) {
-        parser.write_to_file("out.xml");
-    } else {
-        println!("Failed to read the XML file.");
+    let parser = RekordboxXml::from_file(&args[1])?;
+    parser.write_to_file("out.xml")?;
+
+    if args.len() == 3 {
+        let mut analyzer = Analyzer::new(parser, &args[2]);
+        analyzer.run();
+        dbg!("{:?}", analyzer.report);
     }
+
+    Ok(())
 }

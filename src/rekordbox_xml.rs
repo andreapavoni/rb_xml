@@ -40,6 +40,10 @@ impl RekordboxXml {
 
         Ok(())
     }
+
+    pub fn tracks(&self) -> Vec<Track> {
+        self.xml.collection.track.clone()
+    }
 }
 
 #[derive(Debug, PartialEq, Default, Deserialize, Serialize)]
@@ -75,9 +79,9 @@ struct Collection {
     track: Vec<Track>,
 }
 
-#[derive(Debug, PartialEq, Default, Deserialize, Serialize)]
+#[derive(Debug, PartialEq, Default, Clone, Deserialize, Serialize)]
 #[serde(default)]
-struct Track {
+pub struct Track {
     #[serde(rename = "@TrackID")]
     track_id: String,
     #[serde(rename = "@Name")]
@@ -119,7 +123,7 @@ struct Track {
     #[serde(rename = "@Rating")]
     rating: String,
     #[serde(rename = "@Location")]
-    location: String,
+    pub location: String,
     #[serde(rename = "@Remixer")]
     remixer: String,
     #[serde(rename = "@Tonality")]
@@ -134,7 +138,7 @@ struct Track {
     position_mark: Vec<PositionMark>,
 }
 
-#[derive(Debug, PartialEq, Default, Deserialize, Serialize)]
+#[derive(Debug, PartialEq, Default, Clone, Deserialize, Serialize)]
 #[serde(default)]
 struct Tempo {
     #[serde(rename = "@Inizio")]
@@ -147,7 +151,7 @@ struct Tempo {
     battito: String,
 }
 
-#[derive(Debug, PartialEq, Default, Deserialize, Serialize)]
+#[derive(Debug, PartialEq, Default, Clone, Deserialize, Serialize)]
 #[serde(default)]
 struct PositionMark {
     #[serde(rename = "@Name")]
